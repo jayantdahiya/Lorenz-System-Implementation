@@ -1,4 +1,4 @@
-# Lorenz-System-implementation
+# Lorenz-System-Implementation
 
 Implementation of Lorenz system in python(Jupyter notebook) and Processing.
 
@@ -9,6 +9,7 @@ to graphically visualize and simulate the phenomenon of concept.
 
 This system is also known to mathematically implement the butterfly effect phenomenon.
 
+Check out the implementation hosted on firebase: https://lorenz-system.web.app
 
 
 
